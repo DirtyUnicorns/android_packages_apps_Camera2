@@ -368,7 +368,7 @@ public class VideoModule implements CameraModule,
         mUI.setPrefChangedListener(this);
 
         mQuickCapture = mActivity.getIntent().getBooleanExtra(EXTRA_QUICK_CAPTURE, false);
-        mLocationManager = new LocationManager(mActivity, null);
+        mLocationManager = new LocationManager(mActivity, mUI);
 
         mUI.setOrientationIndicator(0, false);
         setDisplayOrientation();
@@ -457,6 +457,9 @@ public class VideoModule implements CameraModule,
         if (mHandler.hasMessages(SHOW_TAP_TO_SNAPSHOT_TOAST)) {
             mHandler.removeMessages(SHOW_TAP_TO_SNAPSHOT_TOAST);
             showTapToSnapshotToast();
+        }
+        if (mLocationManager != null) {
+            mLocationManager.updateGpsIndicator();
         }
     }
 
@@ -801,6 +804,7 @@ public class VideoModule implements CameraModule,
         mCameraDevice = null;
         mPreviewing = false;
         mSnapshotInProgress = false;
+        mUI.hideGpsOnScreenIndicator();
     }
 
     private void releasePreviewResources() {

@@ -995,6 +995,12 @@ public class PhotoModule
             mHandler.removeMessages(SHOW_TAP_TO_FOCUS_TOAST);
             showTapToFocusToast();
         }
+
+        // update GPS indicator
+        if (mLocationManager != null) {
+            mLocationManager.updateGpsIndicator();
+        }
+
     }
 
     @Override
@@ -1488,6 +1494,7 @@ public class PhotoModule
             mCameraDevice = null;
             setCameraState(PREVIEW_STOPPED);
             mFocusManager.onCameraReleased();
+            mUI.hideGpsOnScreenIndicator();
         }
     }
 

@@ -103,11 +103,14 @@ public class ModuleSwitcher extends RotateImageView
 
     public void initializeDrawables(Context context) {
         int numDrawIds = DRAW_IDS.length;
+        boolean hasPanoramaSupport = context.getResources().getBoolean(R.bool.show_panorama_module);
 
         if (!PhotoSphereHelper.hasLightCycleCapture(context)) {
             --numDrawIds;
         }
 
+        if(!hasPanoramaSupport)
+          --numDrawIds;
         // Always decrement one because of GCam.
         --numDrawIds;
 
@@ -115,6 +118,8 @@ public class ModuleSwitcher extends RotateImageView
         int[] moduleids = new int[numDrawIds];
         int ix = 0;
         for (int i = 0; i < DRAW_IDS.length; i++) {
+            if (i == WIDE_ANGLE_PANO_MODULE_INDEX && !hasPanoramaSupport)
+                continue;
             if (i == LIGHTCYCLE_MODULE_INDEX && !PhotoSphereHelper.hasLightCycleCapture(context)) {
                 continue; // not enabled, so don't add to UI
             }

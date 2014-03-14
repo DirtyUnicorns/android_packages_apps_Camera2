@@ -620,7 +620,7 @@ public class VideoModule implements CameraModule,
             return;
         }
         mParameters = mCameraDevice.getParameters();
-        if (mParameters.getSupportedVideoSizes() == null || (!mActivity.getResources().getBoolean(R.bool.usePreferredPreviewSizeForEffects))) {
+        if (mParameters.getSupportedVideoSizes() == null) {
             if (mActivity.getResources().getBoolean(R.bool.useDisplayResolutionAsPreviewSize)) {
                 if(mCameraDisplayOrientation == 90 || mCameraDisplayOrientation == 270) {
                     mDesiredPreviewWidth = screenHeight;

@@ -217,6 +217,7 @@ public class PhotoMenu extends PieController
             });
             more.addItem(item);
         }
+        // burst mode
         if (group.findPreference(CameraSettings.KEY_BURST_MODE) != null) {
             IconListPreference burstPref = (IconListPreference) group.findPreference(
                     CameraSettings.KEY_BURST_MODE);

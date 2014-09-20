@@ -97,4 +97,15 @@
     <string name="pref_camera_slow_shutter_entry_2s">2 secondes</string>
     <string name="pref_camera_slow_shutter_entry_4s">4 secondes</string>
     <string name="pref_camera_slow_shutter_entry_8s">8 secondes</string>
+    <string name="pref_camera_flashmode_entry_redeye">Yeux rouges</string>
+    <string name="pref_camera_flashmode_label_redeye">YEUX ROUGES</string>
+    <string name="pref_video_quality_entry_high">Maximale</string>
+    <string name="pref_video_quality_entry_low">Minimale</string>
+    <string name="pref_camera_picturesize_entry_3_1mp">3,1 Mpx</string>
+    <string name="pref_camera_picturesize_entry_1_2mp">1,2 Mpx</string>
+    <string name="pref_camera_picturesize_entry_0_7mp">0,7 Mpx</string>
+    <string name="pref_camera_picturesize_entry_qcif">QCIF</string>
+    <string name="pref_camera_slow_shutter_entry_16s">16 secondes</string>
+    <string name="pref_camera_slow_shutter_entry_32s">32 secondes</string>
+    <string name="slow_shutter_title_text">Compte à rebours obturation lente</string>
 </resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://android.googlesource.com/platform/packages/apps/Camera2/+/fc4919f72c3268010113218d5b90041a1762e543/res/values-de/strings.xml
+     German translation for Dirty Unicorns
+ -->
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+<!-- message for the dialog showing that the app does not have sufficient permissions [CHAR LIMIT=NONE] -->
+    <string name="error_permissions">Die App besitzt nicht die nötigen Berechtigungen, um richtig zu funktionieren. Bitte überprüfen Sie die Berechtigungen der App.</string>
+
+</resources>

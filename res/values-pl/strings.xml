@@ -117,7 +117,7 @@
   <!-- message for the dialog showing that the user's photo could not be saved [CHAR LIMIT=NONE] -->
   <string name="error_media_storage_failure">Podczas zapisywania zdjęcia lub filmu wystąpił problem.</string>
   <!-- message for the dialog showing that the app does not have sufficient permissions [CHAR LIMIT=NONE] -->
-  <string name="error_permissions">The app does not have critical permissions needed to run. Please check your permissions settings.</string>
+  <string name="error_permissions">Tej aplikacji nie przydzielono niezbędnych uprawnień potrzebnych do działa. Sprawdź jej uprawnienia.</string>
   <!-- Reason used for session failure which is visible in UI [CHAR LIMIT=NONE] -->
   <string name="reason_storage_failure">Błąd przechowywania zdjęcia.</string>
   <!-- alert to the user to wait for some operation to complete -->
@@ -151,7 +151,6 @@
   <string name="pref_camera_location_label">LOKALIZACJA</string>
   <!-- Title for countdown timer on camera settings screen [CHAR LIMIT=30]-->
   <string name="pref_camera_timer_title">Samowyzwalacz</string>
-  <string name="pref_camera_timer_sound_default">@string/setting_on_value</string>
   <!-- Text followed by a checkbox to turn on/off sound effects during the countdown. [CHAR LIMIT=24]-->
   <string name="pref_camera_timer_sound_title">Sygnał odliczania</string>
   <!-- Entry of a on/off setting. The setting is turned off. [CHAR LIMIT=15] -->
@@ -283,9 +282,7 @@
   <!--  menu label exposure compensation [CHAR LIMIT=50] -->
   <string name="pref_exposure_label">EKSPOZYCJA</string>
   <!-- Default HDR entry value -->
-  <string name="pref_camera_hdr_default">@string/setting_off_value</string>
   <!-- Default HDR+ entry value -->
-  <string name="pref_camera_hdr_plus_default">@string/setting_off_value</string>
   <!-- HDR label ON [CHAR LIMIT=60] -->
   <string name="pref_camera_hdr_label">HDR</string>
   <!-- switch camera label back [CHAR LIMIT=60] -->

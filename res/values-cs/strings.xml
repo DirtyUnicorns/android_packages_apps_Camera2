@@ -77,7 +77,7 @@
   <!-- Text indicating the maker of a media item in details window [CHAR LIMIT=14] -->
   <string name="maker">Autor</string>
   <!-- Text indicating the model of a media item in details window [CHAR LIMIT=14] -->
-  <string name="model">Model</string>
+  <string name="model">Typ</string>
   <!-- Text indicating flash info of a media item in details window [CHAR LIMIT=14] -->
   <string name="flash">Blesk</string>
   <!-- Text indicating aperture of a media item in details window [CHAR LIMIT=14] -->
@@ -117,7 +117,7 @@
   <!-- message for the dialog showing that the user's photo could not be saved [CHAR LIMIT=NONE] -->
   <string name="error_media_storage_failure">Při ukládání fotky nebo videa se vyskytl problém.</string>
   <!-- message for the dialog showing that the app does not have sufficient permissions [CHAR LIMIT=NONE] -->
-  <string name="error_permissions">The app does not have critical permissions needed to run. Please check your permissions settings.</string>
+  <string name="error_permissions">Aplikace nemá žádné kritické oprávnění potřebná ke spuštění. Prosím zkontrolujte nastavení oprávnění.</string>
   <!-- Reason used for session failure which is visible in UI [CHAR LIMIT=NONE] -->
   <string name="reason_storage_failure">Selhání uložení fotky.</string>
   <!-- alert to the user to wait for some operation to complete -->
@@ -236,7 +236,7 @@
   <!-- Settings menu, scene mode choices [CHAR LIMIT=16] -->
   <string name="pref_camera_scenemode_entry_auto">Automaticky</string>
   <!-- Scene mode that uses HDR plus (better HDR) [CHAR LIMIT=16] -->
-  <string name="pref_camera_scenemode_entry_hdr_plus">HDR+</string>
+  <string name="pref_camera_scenemode_entry_hdr_plus">HDR +</string>
   <!-- Scene mode that uses HDR (high dynamic range) [CHAR LIMIT=16] -->
   <string name="pref_camera_scenemode_entry_hdr">HDR</string>
   <!-- Scene mode to turn on HDR (better high dynamic range) [CHAR LIMIT=50] -->

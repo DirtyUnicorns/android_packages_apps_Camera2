@@ -92,7 +92,7 @@
   <string name="iso">ISO</string>
   <!-- String indicating the time units in seconds. [CHAR LIMIT=8] -->
   <!-- String indicating the length units in milli-meters. [CHAR LIMIT=8] -->
-  <string name="unit_mm">mm</string>
+  <string name="unit_mm">pulgadas</string>
   <!-- String indicating how camera shooting feature is used. [CHAR LIMIT=12] -->
   <string name="manual">Manual</string>
   <!-- String indicating how camera shooting feature is used. [CHAR LIMIT=12 -->
@@ -117,7 +117,7 @@
   <!-- message for the dialog showing that the user's photo could not be saved [CHAR LIMIT=NONE] -->
   <string name="error_media_storage_failure">Ha habido un problema al guardar la foto o el vídeo.</string>
   <!-- message for the dialog showing that the app does not have sufficient permissions [CHAR LIMIT=NONE] -->
-  <string name="error_permissions">The app does not have critical permissions needed to run. Please check your permissions settings.</string>
+  <string name="error_permissions">La aplicación no tiene los permisos necesarios para que funcione. Por favor, compruebe su configuración de permisos.</string>
   <!-- Reason used for session failure which is visible in UI [CHAR LIMIT=NONE] -->
   <string name="reason_storage_failure">Error al almacenar la foto.</string>
   <!-- alert to the user to wait for some operation to complete -->

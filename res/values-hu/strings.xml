@@ -121,11 +121,11 @@
   <!-- Reason used for session failure which is visible in UI [CHAR LIMIT=NONE] -->
   <string name="reason_storage_failure">Fotótárolási hiba.</string>
   <!-- alert to the user to wait for some operation to complete -->
-  <string name="wait">Kérjük, várjon...</string>
+  <string name="wait">Kérjük, várjon\u2026</string>
   <!-- alert to the user that an SD card must be installed before using the camera -->
   <string name="no_storage" product="default">A kamera használatához helyezzen be egy SD-kártyát.</string>
   <!-- alert to the user that the SD card is being disk-checked -->
-  <string name="preparing_sd" product="default">SD-kártya előkészítése...</string>
+  <string name="preparing_sd" product="default">SD-kártya előkészítése\u2026</string>
   <!-- alert to the user that the camera fails to read or write the SD card. -->
   <string name="access_sd_fail" product="default">Nem lehet hozzáférni az SD-kártyához.</string>
   <!-- A label that overlays on top of the preview frame to indicate the camcorder is in time lapse mode [CHAR LIMIT=35] -->

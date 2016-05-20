@@ -390,11 +390,11 @@
   <!-- Announcement when the mode list becomes shown on screen [CHAR LIMIT=NONE] -->
   <string name="accessibility_mode_list_shown">Mode list open</string>
   <!-- Announcement when a general media capture is performed, and visually the capture 'peeks' from right screen [CHAR LIMIT=NONE] -->
-  <string name="media_accessibility_peek">Capture taken</string>
+  <string name="media_accessibility_peek">Captura feita</string>
   <!-- Announcement when a video capture is performed, and visually the capture 'peeks' from right screen [CHAR LIMIT=NONE] -->
-  <string name="photo_accessibility_peek">Photo taken</string>
+  <string name="photo_accessibility_peek">Foto feita</string>
   <!-- Announcement when a video capture is performed, and visually the capture 'peeks' from right screen [CHAR LIMIT=NONE] -->
-  <string name="video_accessibility_peek">Video taken</string>
+  <string name="video_accessibility_peek">Video feito</string>
   <!-- Description for the lock icon in Secure Camera filmstrip that when clicked, brings user to lock screen then full Camera [CHAR LIMIT=NONE] -->
   <string name="accessibility_unlock_to_camera">Unlock to Camera</string>
   <!-- Content description for general media items in filmstrip based on modified date, template will read a file modified date and time [CHAR LIMIT=NONE] -->

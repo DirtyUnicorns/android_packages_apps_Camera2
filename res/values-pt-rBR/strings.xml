@@ -538,38 +538,38 @@
   <!-- Negative answer for first run dialog asking if the user wants to remember photo locations [CHAR LIMIT=20] -->
   <string name="remember_location_no">No thanks</string>
   <!-- Positive answer for first run dialog asking if the user wants to remember photo locations [CHAR LIMIT=20] -->
-  <string name="remember_location_yes">Yes</string>
+  <string name="remember_location_yes">Sim</string>
   <!-- Camera menu labels -->
   <!-- more options label [CHAR LIMIT=50] -->
-  <string name="camera_menu_more_label">MORE OPTIONS</string>
+  <string name="camera_menu_more_label">Mais opções</string>
   <!-- settings label [CHAR LIMIT=50] -->
-  <string name="camera_menu_settings_label">SETTINGS</string>
+  <string name="camera_menu_settings_label">Configurações</string>
   <!--  Tiny Planet -->
   <!-- Button to press for creating a tiny planet image. [CHAR LIMIT=30] -->
-  <string name="create_tiny_planet">Create Tiny Planet</string>
+  <string name="create_tiny_planet">Criar um Planeta pequeno</string>
   <!-- Message shown while a tiny planet image is being saved. [CHAR LIMIT=30] -->
-  <string name="saving_tiny_planet">Saving Tiny Planet &#8230;</string>
+  <string name="saving_tiny_planet">Salvando Planeta pequeno&#8230;</string>
   <!-- Label above a slider that let's the user set the zoom of a tiny planet image. [CHAR LIMIT=15] -->
   <string name="tiny_planet_zoom">Zoom</string>
   <!-- Label above a slider that let's the user set the rotation of a tiny planet image. [CHAR LIMIT=15] -->
-  <string name="tiny_planet_rotate">Rotate</string>
+  <string name="tiny_planet_rotate">Rotacionar</string>
   <!-- Label for menu item that starts a photo editor. [CHAR LIMIT=30] -->
-  <string name="photo_editor">Photo Editor</string>
+  <string name="photo_editor">Editor de fotos</string>
   <!-- Crop -->
   <!-- Label for the save button in the crop activity action bar [CHAR LIMIT=20] -->
-  <string name="crop_save">Save</string>
+  <string name="crop_save">Salvar</string>
   <!--  String shown when we cannot load the image when starting the activity [CHAR LIMIT=NONE] -->
-  <string name="cannot_load_image">Cannot load the image!</string>
+  <string name="cannot_load_image">Não foi possível carregar a imagem!</string>
   <!-- Label for album filmstrip button -->
   <string name="switch_photo_filmstrip">Filmstrip view</string>
   <!--  String shown when setting the homepage wallpaper in the background [CHAR LIMIT=NONE] -->
   <string name="setting_wallpaper">Setting wallpaper</string>
   <!-- Camera settings. [CHAR LIMIT=25] -->
-  <string name="mode_settings">Settings</string>
+  <string name="mode_settings">Configurações</string>
   <!-- Text shown in the camera mode options list for normal camera mode [CHAR LIMIT=25] -->
-  <string name="mode_camera">Camera</string>
+  <string name="mode_camera">Câmera</string>
   <!-- Text shown in the camera mode options list for putting camera in video recording mode [CHAR LIMIT=25] -->
-  <string name="mode_video">Video</string>
+  <string name="mode_video">Vídeo</string>
   <!-- Text shown in the camera mode options list for putting camera in photo sphere mode. 'Photo sphere' is a product name. [CHAR LIMIT=25] -->
   <string name="mode_photosphere">Photo Sphere</string>
   <!-- Text shown in the camera mode options list for putting camera in time lapse mode [CHAR LIMIT=25] -->
@@ -581,9 +581,9 @@
   <!-- Text shown in the camera mode options list for putting camera in refocus mode [CHAR LIMIT=25] -->
   <string name="mode_refocus">Lens Blur</string>
   <!-- Accessibility text for switching to normal camera mode [CHAR_LIMIT=NONE] -->
-  <string name="mode_camera_desc">Switch to Camera Mode</string>
+  <string name="mode_camera_desc">Trocar para modo Câmera</string>
   <!-- Accessibility text for switching to video mode [CHAR_LIMIT=NONE] -->
-  <string name="mode_video_desc">Switch to Video Camera</string>
+  <string name="mode_video_desc">Trocar para Vídeo</string>
   <!-- Accessibility text for switching to photo sphere mode. 'Photo sphere' is a product name. [CHAR_LIMIT=NONE] -->
   <string name="mode_photosphere_desc">Switch to Photo Sphere Mode</string>
   <!-- Accessibility text for switching to panorama mode [CHAR_LIMIT=NONE] -->
@@ -591,7 +591,7 @@
   <!-- Accessibility text for switching to refocus mode [CHAR_LIMIT=NONE] -->
   <string name="mode_refocus_desc">Switch to Lens Blur Mode</string>
   <!-- Accessibility text for settings toggle button states [CHAR_LIMIT=NONE] -->
-  <string name="settings_open_desc">Open settings</string>
+  <string name="settings_open_desc">Abrir configurações</string>
   <string name="settings_close_desc">Fechar Configurações</string>
   <!-- Accessibility text for HDR+ toggle button states [CHAR_LIMIT=NONE] -->
   <string name="hdr_plus_off_desc">HDR Plus desligado</string>

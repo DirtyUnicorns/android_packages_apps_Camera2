@@ -18,7 +18,7 @@
   <!-- The name of the Android Camera application. [CHAR LIMIT=16] -->
   <string name="app_name">Camera</string>
   <!-- The label for the Video Camera activity. [CHAR LIMIT=16] -->
-  <string name="video_camera_label">Camcorder</string>
+  <string name="video_camera_label">Videorecorder</string>
   <!-- Used to format short video duration in Details dialog. minutes:seconds e.g. 00:30 -->
   <string name="details_ms">%1$02d:%2$02d</string>
   <!-- Used to format video duration in Details dialog. hours:minutes:seconds e.g. 0:21:30 -->
@@ -117,7 +117,7 @@
   <!-- message for the dialog showing that the user's photo could not be saved [CHAR LIMIT=NONE] -->
   <string name="error_media_storage_failure">Er is een probleem opgetreden bij het opslaan van uw foto of video.</string>
   <!-- message for the dialog showing that the app does not have sufficient permissions [CHAR LIMIT=NONE] -->
-  <string name="error_permissions">The app does not have critical permissions needed to run. Please check your permissions settings.</string>
+  <string name="error_permissions">De app heeft niet de vereiste machtigingen. Controleer uw machtigingsinstellingen.</string>
   <!-- Reason used for session failure which is visible in UI [CHAR LIMIT=NONE] -->
   <string name="reason_storage_failure">Kan foto niet opslaan.</string>
   <!-- alert to the user to wait for some operation to complete -->
@@ -290,7 +290,7 @@
   <!-- switch camera label front [CHAR LIMIT=60] -->
   <string name="pref_camera_id_label_front">CAMERA AAN ACHTERZIJDE</string>
   <!-- Dialog "OK" button. Dismisses dialog. -->
-  <string name="dialog_ok">OK</string>
+  <string name="dialog_ok">Oké</string>
   <string name="dialog_cancel">Annuleren</string>
   <!-- Dialog "Report" button. Opens Google Feedback screen [CHAR LIMIT=12] -->
   <string name="dialog_report">Melden</string>

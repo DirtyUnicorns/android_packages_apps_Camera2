@@ -429,9 +429,9 @@
   <!-- Accessibility message spoken by TalkBack informing user of the current zoom value [CHAR LIMIT=NONE] -->
   <string name="accessibility_zoom_announcement">현재 화면 배율은 %.1f입니다.</string>
   <!-- Default text for a button that can be toggled on and off. -->
-  <string name="capital_on">ON</string>
+  <string name="capital_on">켬</string>
   <!-- Default text for a button that can be toggled on and off. -->
-  <string name="capital_off">OFF</string>
+  <string name="capital_off">끔</string>
   <!-- Describes button on top of a video in filmstrip that is a play icon, pressing starts external video player [CHAR LIMIT=NONE] -->
   <string name="video_control_play">동영상 재생</string>
   <!-- Text to indicate time lapse recording frame interval [CHAR LIMIT=30] -->
@@ -570,7 +570,7 @@
   <!-- Text shown in the camera mode options list for putting camera in video recording mode [CHAR LIMIT=25] -->
   <string name="mode_video">동영상</string>
   <!-- Text shown in the camera mode options list for putting camera in photo sphere mode. 'Photo sphere' is a product name. [CHAR LIMIT=25] -->
-  <string name="mode_photosphere">Photo Sphere</string>
+  <string name="mode_photosphere">포토 스피어</string>
   <!-- Text shown in the camera mode options list for putting camera in time lapse mode [CHAR LIMIT=25] -->
   <string name="mode_timelapse">시간 경과</string>
   <!-- Text shown in the camera mode options list for putting camera in wide angle panorama mode [CHAR LIMIT=25] -->

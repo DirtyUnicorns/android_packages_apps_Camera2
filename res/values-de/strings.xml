@@ -113,7 +113,7 @@
   <!-- message for the dialog showing the error of camera hardware -->
   <string name="error_cannot_connect_camera">Keine Verbindung zur Kamera möglich</string>
   <!-- message for the dialog showing the camera is disabled because of security policies. Camera cannot be used. -->
-  <string name="error_camera_disabled">Die Kamera wurde aufgrund von Sicherheitsrichtlinien deaktiviert.</string>
+  <string name="error_camera_disabled">Die Kamera wurde aus Sicherheitsgründen deaktiviert.</string>
   <!-- message for the dialog showing that the user's photo could not be saved [CHAR LIMIT=NONE] -->
   <string name="error_media_storage_failure">Beim Speichern Ihres Fotos oder Videos ist ein Problem aufgetreten.</string>
   <!-- message for the dialog showing that the app does not have sufficient permissions [CHAR LIMIT=NONE] -->
@@ -135,12 +135,12 @@
   <!-- Default feedback that is entered in the Feedback textview for issues related to saving photos. [CHAR LIMIT=NONE] -->
   <string name="feedback_description_save_photo">Das Foto oder Video wurde nicht auf dem Gerät gespeichert.</string>
   <!-- Screen display message during image capture to indicate that the capture is in progress, like during HDR+. [CHAR LIMIT=20] -->
-  <string name="capturing">Wird aufgenommen</string>
+  <string name="capturing">Aufnahme</string>
   <!-- Settings screen, camera selection dialog title. Users can select a camera from the phone (front-facing or back-facing). [CHAR LIMIT=20] -->
   <string name="pref_camera_id_title">Kamera wählen</string>
   <!-- Named indexes into the array of camera facing entries -->
   <!-- In select camera setting, back facing camera. [CHAR LIMIT=14] -->
-  <string name="pref_camera_id_entry_back">Zurück</string>
+  <string name="pref_camera_id_entry_back">Rückseite</string>
   <!-- In select camera setting, front-facing camera. [CHAR LIMIT=14] -->
   <string name="pref_camera_id_entry_front">Vorderseite</string>
   <!-- In select camera setting, back facing camera value. [CHAR LIMIT=14] -->

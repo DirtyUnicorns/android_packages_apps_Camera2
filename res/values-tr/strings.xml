@@ -117,7 +117,7 @@
   <!-- message for the dialog showing that the user's photo could not be saved [CHAR LIMIT=NONE] -->
   <string name="error_media_storage_failure">Fotoğrafınız veya videonuz kaydedilirken bir sorun oluştu.</string>
   <!-- message for the dialog showing that the app does not have sufficient permissions [CHAR LIMIT=NONE] -->
-  <string name="error_permissions">The app does not have critical permissions needed to run. Please check your permissions settings.</string>
+  <string name="error_permissions">Uygulama çalışması için kritik izinlere sahip değili. Lütfen izin ayarlarını kontrol edin.</string>
   <!-- Reason used for session failure which is visible in UI [CHAR LIMIT=NONE] -->
   <string name="reason_storage_failure">Fotoğraf depolama hatası.</string>
   <!-- alert to the user to wait for some operation to complete -->
@@ -570,7 +570,7 @@
   <!-- Text shown in the camera mode options list for putting camera in video recording mode [CHAR LIMIT=25] -->
   <string name="mode_video">Video</string>
   <!-- Text shown in the camera mode options list for putting camera in photo sphere mode. 'Photo sphere' is a product name. [CHAR LIMIT=25] -->
-  <string name="mode_photosphere">Photo Sphere</string>
+  <string name="mode_photosphere">Fotoğraf Küresi</string>
   <!-- Text shown in the camera mode options list for putting camera in time lapse mode [CHAR LIMIT=25] -->
   <string name="mode_timelapse">Zaman Atlama</string>
   <!-- Text shown in the camera mode options list for putting camera in wide angle panorama mode [CHAR LIMIT=25] -->

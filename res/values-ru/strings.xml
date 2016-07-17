@@ -34,7 +34,7 @@
   <!-- The label shown after an image is deleted [CHAR LIMIT=16] -->
   <string name="deleted">Удалено</string>
   <!-- The label on the button which when clicked will undo a deletion of image [CHAR LIMIT=16]-->
-  <string name="undo">ОТМЕНИТЬ</string>
+  <string name="undo">Отменить</string>
   <string name="details">Информация</string>
   <string name="close">Закрыть</string>
   <!-- String indicating timestamp of photo or video -->

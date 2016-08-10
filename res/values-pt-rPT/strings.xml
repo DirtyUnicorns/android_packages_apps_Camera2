@@ -236,7 +236,7 @@
   <!-- Settings menu, scene mode choices [CHAR LIMIT=16] -->
   <string name="pref_camera_scenemode_entry_auto">Automático</string>
   <!-- Scene mode that uses HDR plus (better HDR) [CHAR LIMIT=16] -->
-  <string name="pref_camera_scenemode_entry_hdr_plus">HDR+</string>
+  <string name="pref_camera_scenemode_entry_hdr_plus">HDR +</string>
   <!-- Scene mode that uses HDR (high dynamic range) [CHAR LIMIT=16] -->
   <string name="pref_camera_scenemode_entry_hdr">HDR</string>
   <!-- Scene mode to turn on HDR (better high dynamic range) [CHAR LIMIT=50] -->
@@ -290,7 +290,7 @@
   <!-- switch camera label front [CHAR LIMIT=60] -->
   <string name="pref_camera_id_label_front">CÂMARA POSTERIOR</string>
   <!-- Dialog "OK" button. Dismisses dialog. -->
-  <string name="dialog_ok">OK</string>
+  <string name="dialog_ok">Ok</string>
   <string name="dialog_cancel">Cancelar</string>
   <!-- Dialog "Report" button. Opens Google Feedback screen [CHAR LIMIT=12] -->
   <string name="dialog_report">Env. relat.</string>
@@ -403,7 +403,7 @@
   <!-- Content description for video media items in filmstrip based on modified date, template will read a file modified date and time [CHAR LIMIT=NONE] -->
   <string name="video_date_content_description">Vídeo filmado em %s</string>
   <!-- Content description for panorama media items in filmstrip based on modified date, template will read a file modified date and time [CHAR LIMIT=NONE] -->
-  <string name="panorama_date_content_description">Panorama taken on %s</string>
+  <string name="panorama_date_content_description">Panorama tirado em %s</string>
   <!-- Content description for photosphere media items in filmstrip based on modified date, template will read a file modified date and time [CHAR LIMIT=NONE] -->
   <string name="photosphere_date_content_description">Photo Sphere criada em %s</string>
   <!-- Content description for refocus media items in filmstrip based on modified date, template will read a file modified date and time [CHAR LIMIT=NONE] -->
@@ -421,7 +421,7 @@
   <!-- Content description of the button that zooms in. [CHAR LIMIT=NONE] -->
   <string name="accessibility_mode_zoom_plus">Aumentar</string>
   <!-- Text on the button that zooms in [CHAR LIMIT=20] -->
-  <string name="btn_zoom_plus">Z+</string>
+  <string name="btn_zoom_plus">Z +</string>
   <!-- Content description of the button that zooms out. [CHAR LIMIT=NONE] -->
   <string name="accessibility_mode_zoom_minus">Diminuir</string>
   <!-- Text on the button that zooms out [CHAR LIMIT=20] -->
@@ -570,7 +570,7 @@
   <!-- Text shown in the camera mode options list for putting camera in video recording mode [CHAR LIMIT=25] -->
   <string name="mode_video">Vídeo</string>
   <!-- Text shown in the camera mode options list for putting camera in photo sphere mode. 'Photo sphere' is a product name. [CHAR LIMIT=25] -->
-  <string name="mode_photosphere">Photo Sphere</string>
+  <string name="mode_photosphere">Foto de esfera</string>
   <!-- Text shown in the camera mode options list for putting camera in time lapse mode [CHAR LIMIT=25] -->
   <string name="mode_timelapse">Intervalo de tempo</string>
   <!-- Text shown in the camera mode options list for putting camera in wide angle panorama mode [CHAR LIMIT=25] -->

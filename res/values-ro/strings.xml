@@ -61,7 +61,7 @@
   <!-- Text indicating the location of a media item in details window [CHAR LIMIT=14] -->
   <string name="location">Locație</string>
   <!-- Text indicating the path of a media item in details window [CHAR LIMIT=14] -->
-  <string name="path">Cale</string>
+  <string name="path">Locație</string>
   <!-- Text indicating the width of a media item in details window [CHAR LIMIT=14] -->
   <string name="width">Lățime</string>
   <!-- Text indicating the height of a media item in details window [CHAR LIMIT=14] -->
@@ -79,7 +79,7 @@
   <!-- Text indicating the model of a media item in details window [CHAR LIMIT=14] -->
   <string name="model">Model</string>
   <!-- Text indicating flash info of a media item in details window [CHAR LIMIT=14] -->
-  <string name="flash">Flash</string>
+  <string name="flash">Bliţ</string>
   <!-- Text indicating aperture of a media item in details window [CHAR LIMIT=14] -->
   <string name="aperture">Apertură</string>
   <!-- Text indicating the focal length of a media item in details window [CHAR LIMIT=14] -->
@@ -236,7 +236,7 @@
   <!-- Settings menu, scene mode choices [CHAR LIMIT=16] -->
   <string name="pref_camera_scenemode_entry_auto">Automat</string>
   <!-- Scene mode that uses HDR plus (better HDR) [CHAR LIMIT=16] -->
-  <string name="pref_camera_scenemode_entry_hdr_plus">HDR+</string>
+  <string name="pref_camera_scenemode_entry_hdr_plus">HDR +</string>
   <!-- Scene mode that uses HDR (high dynamic range) [CHAR LIMIT=16] -->
   <string name="pref_camera_scenemode_entry_hdr">HDR</string>
   <!-- Scene mode to turn on HDR (better high dynamic range) [CHAR LIMIT=50] -->
@@ -421,7 +421,7 @@
   <!-- Content description of the button that zooms in. [CHAR LIMIT=NONE] -->
   <string name="accessibility_mode_zoom_plus">Măriți</string>
   <!-- Text on the button that zooms in [CHAR LIMIT=20] -->
-  <string name="btn_zoom_plus">Z+</string>
+  <string name="btn_zoom_plus">Z +</string>
   <!-- Content description of the button that zooms out. [CHAR LIMIT=NONE] -->
   <string name="accessibility_mode_zoom_minus">Micșorați</string>
   <!-- Text on the button that zooms out [CHAR LIMIT=20] -->
@@ -549,7 +549,7 @@
   <!-- Message shown while a tiny planet image is being saved. [CHAR LIMIT=30] -->
   <string name="saving_tiny_planet">Se salvează miniplaneta</string>
   <!-- Label above a slider that let's the user set the zoom of a tiny planet image. [CHAR LIMIT=15] -->
-  <string name="tiny_planet_zoom">Zoom</string>
+  <string name="tiny_planet_zoom">Mărește</string>
   <!-- Label above a slider that let's the user set the rotation of a tiny planet image. [CHAR LIMIT=15] -->
   <string name="tiny_planet_rotate">Rotație</string>
   <!-- Label for menu item that starts a photo editor. [CHAR LIMIT=30] -->
@@ -570,7 +570,7 @@
   <!-- Text shown in the camera mode options list for putting camera in video recording mode [CHAR LIMIT=25] -->
   <string name="mode_video">Videoclip</string>
   <!-- Text shown in the camera mode options list for putting camera in photo sphere mode. 'Photo sphere' is a product name. [CHAR LIMIT=25] -->
-  <string name="mode_photosphere">Photo Sphere</string>
+  <string name="mode_photosphere">Foto sfera</string>
   <!-- Text shown in the camera mode options list for putting camera in time lapse mode [CHAR LIMIT=25] -->
   <string name="mode_timelapse">Filmare lentă</string>
   <!-- Text shown in the camera mode options list for putting camera in wide angle panorama mode [CHAR LIMIT=25] -->
